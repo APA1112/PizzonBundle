@@ -66,5 +66,11 @@
             "allow-contrib": false,
             "require": "5.4.*"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/APA1112/PizzonBundle.git"
+        }
+    ]
 }
