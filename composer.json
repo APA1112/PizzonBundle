@@ -1,8 +1,8 @@
 {
     "name": "apa1112/pizzon-bundle",
     "description": "bundle to manage a pizza shop",
-    "type": "project",
-    "license": "proprietary",
+    "type": "symfony-bundle",
+    "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
