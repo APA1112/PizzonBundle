@@ -8,7 +8,7 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class PizzonController extends AbstractController{
     #[Route('/', name:'pizzon_card')]
-   public function cineCard():Response{
+   public function pizzonCard():Response{
        return $this->render('Card/card.html.twig');
    }
 
