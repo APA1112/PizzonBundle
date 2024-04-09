@@ -1,7 +1,7 @@
 {
     "name": "apa1112/pizzon-bundle",
     "description": "bundle to manage a pizza shop",
-    "type": "symfony-bundle",
+    "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -35,7 +35,7 @@
     },
     "autoload": {
         "psr-4": {
-            "APA1112\\PizzonBundle\\": ""
+            "App\\": "src/"
         }
     },
     "autoload-dev": {
