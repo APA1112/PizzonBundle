@@ -1,4 +1,6 @@
 {
+    "name": "apa1112/pizzon-bundle",
+    "description": "bundle to manage a pizza shop",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
